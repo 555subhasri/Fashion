@@ -52,6 +52,5 @@ This is a  Upcoming Fashion Webiste
 https://youtu.be/_sTQPIeInxY
 
 ## azure portal screenshot
-![image](https://user-images.githubusercontent.com/112412481/194691595-f0f40a0c-726f-43df-b962-b98ab7ba4053.png)
-
+![Screenshot (318)](https://user-images.githubusercontent.com/112412481/194693016-9f5d2a8f-d7eb-4b4a-a917-c14ba8e492ca.png)
 
